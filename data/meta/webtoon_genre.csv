@@ -1,0 +1,760 @@
+title_id,genre,main_rating,main_title,title_id
+103391,['episode' 'sensibility'],9.82,징글정글,103391
+103759,['omnibus' 'comic'],8.96,이말년씨리즈,103759
+105533,['story' 'fantasy'],9.93,커피우유신화,105533
+112931,['omnibus' 'fantasy'],9.94,아스란영웅전,112931
+112933,['omnibus' 'drama'],9.89,색으로 말하다,112933
+113119,['story' 'drama'],9.91,아부쟁이,113119
+113121,['episode' 'sensibility'],9.89,겨울동화,113121
+113535,['omnibus' 'pure'],9.11,블라인드,113535
+113581,['story' 'drama' 'historical'],9.74,제주구슬할망,113581
+113582,['story' 'historical'],9.71,므시미르,113582
+113584,['story' 'drama' 'historical'],9.59,반월,113584
+113585,['story' 'drama'],9.54,원미동 백수,113585
+113586,['story' 'drama'],8.06,황금짱순이,113586
+113587,['story' 'historical'],9.51,권번기생 비밀의 기억,113587
+113588,['story' 'historical'],8.82,고인돌나라의 야물,113588
+119874,['omnibus' 'fantasy'],9.63,덴마,119874
+131385,['story' 'fantasy'],9.96,쿠베라,131385
+132459,['omnibus'],9.76,고(故)길창덕화백 추모웹툰,132459
+137706,['story' 'thrill'],9.88,의령수,137706
+137710,['episode' 'daily' 'comic'],8.82,피터팬날다,137710
+140444,['story' 'drama'],9.93,콘스탄쯔 이야기,140444
+142910,['omnibus' 'daily' 'comic'],9.68,탐구생활4-그대와 함께 하이킹,142910
+142911,['story' 'thrill'],9.93,멜로홀릭,142911
+144956,['story' 'comic'],9.92,와일드와일드워커스,144956
+147175,['story' 'drama' 'pure'],9.89,거상 김만덕,147175
+148778,['story' 'comic'],9.92,야! 오이,148778
+148975,['omnibus' 'daily' 'comic'],9.88,낢에게와요,148975
+150387,['story' 'drama' 'pure'],9.92,바이올린처럼.,150387
+150388,['story' 'action'],9.55,폭풍의 전학생,150388
+150389,['episode' 'daily' 'sensibility'],9.94,스마일브러시,150389
+15395,['omnibus' 'daily' 'comic'],9.73,바나나걸,15395
+15439,['omnibus' 'pure'],9.52,사랑in,15439
+15441,['episode' 'daily' 'comic'],9.92,골방환상곡,15441
+15568,['omnibus' 'thrill'],9.89,수사9단,15568
+15569,['omnibus' 'fantasy'],9.20,타투,15569
+15640,['omnibus' 'comic'],9.91,입시명문사립 정글고등학교,15640
+15938,['episode' 'daily' 'comic'],9.66,와탕카,15938
+160461,['story' 'pure'],9.66,뜨거운 것이 좋아.,160461
+160469,['story' 'fantasy'],9.53,특수 영능력 수사반,160469
+163295,['omnibus' 'thrill'],9.83,공부하기 좋은 날,163295
+164320,['omnibus' 'sports'],9.26,자율공상축구탐구만화,164320
+169080,['episode' 'daily' 'sensibility'],9.96,Penguin loves Mev,169080
+169081,['story' 'fantasy' 'drama'],9.91,단군할배요,169081
+169082,['story' 'fantasy'],9.95,키스우드,169082
+170785,['omnibus' 'daily' 'comic'],9.46,국가의 탄생,170785
+179704,['story' 'drama'],9.95,안나라수마나라,179704
+183558,['episode' 'daily' 'sensibility'],9.94,"스마일 브러시, 오래된 사진.",183558
+183559,['story' 'fantasy'],9.94,신의 탑,183559
+186811,['story' 'drama'],9.96,치즈인더트랩 1~3부,186811
+186812,['story' 'thrill'],9.93,살인자o난감,186812
+186813,['story' 'thrill'],9.81,증거,186813
+186814,['omnibus' 'comic'],9.62,심부름센터 K,186814
+188197,['story' 'fantasy'],9.96,미호이야기,188197
+188199,['episode' 'daily' 'drama' 'sensibility'],9.67,동경소녀,188199
+191347,['story' 'fantasy' 'drama'],9.92,연애세포,191347
+205528,['story' 'fantasy'],9.87,굿모닝 스페이스,205528
+206146,['story' 'drama' 'pure'],9.95,열아홉스물하나,206146
+206149,['story' 'drama'],9.95,유토피아,206149
+20762,['story' 'pure'],9.67,AA,20762
+20853,['episode' 'daily' 'comic'],9.86,마음의소리,20853
+21815,['omnibus' 'fantasy'],9.96,히어로메이커,21815
+22027,['omnibus' 'comic' 'historical'],9.35,삼국전투기,22027
+22037,['story'],9.86,체스아일,22037
+22043,['story' 'pure'],9.86,에피소드메이비,22043
+22045,['episode' 'daily' 'comic'],9.95,낢이사는이야기,22045
+22052,['episode' 'daily' 'comic'],9.91,트라우마,22052
+22073,['episode' 'comic'],8.79,까뱅,22073
+22090,['episode' 'drama'],9.79,도자기,22090
+226806,['story' 'fantasy'],9.57,테제,226806
+226807,['story' 'sports'],9.90,그린보이,226807
+22896,['story' 'pure'],9.93,핑크레이디,22896
+22897,['omnibus' 'comic' 'drama'],9.90,호랭총각,22897
+23182,['omnibus' 'fantasy' 'drama'],9.90,싸우자귀신아,23182
+23183,['story' 'drama'],9.95,펫다이어리,23183
+233265,['story' 'fantasy' 'pure'],9.95,견우와 직녀,233265
+243315,['omnibus' 'comic'],9.30,우리들은 푸르다,243315
+243316,['story' 'comic' 'drama'],9.79,러브슬립,243316
+24525,['story' 'daily' 'comic'],9.75,탐구생활2,24525
+24530,['episode' 'sports'],8.01,MLB카툰,24530
+24777,['episode' 'daily'],9.23,구석구석캠페인,24777
+24965,['story' 'fantasy'],9.93,마술사,24965
+24995,['story' 'drama' 'pure'],9.89,세개의시간,24995
+25050,['story' 'historical'],9.76,태왕광개토,25050
+251575,['story' 'drama' 'pure'],9.96,방울토마토,251575
+254132,['story' 'fantasy'],9.92,옆집화랑,254132
+254143,['story' 'drama' 'thrill'],9.93,스토커,254143
+25455,['story' 'fantasy'],9.66,노블레스,25455
+25517,['episode' 'daily' 'comic'],9.22,식스센스,25517
+25613,['episode' 'daily' 'comic'],9.95,생활의참견,25613
+256855,['story' 'daily' 'comic'],9.96,질풍기획 시즌1,256855
+25695,['story' 'thrill'],9.93,향수,25695
+25714,['story' 'fantasy' 'drama'],9.77,제로,25714
+25734,['story' 'drama'],9.83,TLT (Tiger the Long tail),25734
+25735,['story' 'drama'],9.96,어서오세요.305호에,25735
+258205,['story' 'thrill'],9.89,프로젝트 X,258205
+258206,['story' 'fantasy' 'thrill'],9.52,LOST,258206
+258207,['story' 'drama'],9.88,그런지,258207
+25897,['omnibus' 'comic'],9.51,내일은 럭키곰스타,25897
+25898,['story' 'drama'],9.95,펫다이어리2.런,25898
+25904,['story' 'pure' 'thrill'],9.94,러브판타지페이퍼,25904
+25913,['story' 'pure'],9.81,크레이지 커피 캣,25913
+259893,['story' 'fantasy'],9.73,소년전[Limit],259893
+259937,['story' 'fantasy' 'drama'],9.96,별의 유언,259937
+260510,['story' 'fantasy' 'drama'],9.57,MODERN BOYS,260510
+26074,['omnibus' 'daily' 'pure'],9.90,카라멜마끼아또,26074
+26084,['story' 'fantasy' 'drama'],9.84,열쇠줍는아이,26084
+26086,['story' 'drama'],9.93,심장이뛰다,26086
+26101,['episode' 'daily' 'comic'],8.97,와탕카2,26101
+26107,['story' 'drama'],9.93,새끼손가락,26107
+26108,['story' 'fantasy'],9.95,언더프린,26108
+26114,['omnibus' 'daily' 'comic'],9.79,탐구생활3,26114
+26115,['story' 'thrill'],9.86,고향의꽃,26115
+26144,['episode' 'daily' 'comic'],9.15,취업의소리,26144
+26205,['story' 'action'],9.45,쎈놈,26205
+26216,['episode' 'sensibility'],9.79,일편단심화,26216
+26309,['story' 'comic'],8.71,정열맨,26309
+26310,['story' 'fantasy' 'drama'],9.95,3단합체김창남,26310
+26316,['episode' 'daily' 'comic'],9.85,와라! 편의점,26316
+26431,['story'],9.17,창위의일루젼,26431
+26440,['story' 'fantasy'],5.26,반지의제왕,26440
+26456,['story' 'thrill'],9.78,N의등대-thecalling,26456
+26458,['story' 'thrill'],9.91,N의등대-눈의등대,26458
+26460,['story' 'thrill'],9.87,N의등대-busted,26460
+26473,['story' 'thrill'],9.74,N의등대-도망자,26473
+26671,['story' 'pure'],9.84,레드초콜릿,26671
+268858,['story' 'action'],9.90,쎈놈 외전,268858
+268859,['story' 'action' 'drama'],9.93,지원,268859
+274400,['story' 'thrill'],9.64,혜성같은 소년,274400
+277235,['story' 'drama' 'sports'],9.85,리턴,277235
+284940,['story' 'comic' 'fantasy'],9.92,요리대마왕,284940
+285855,['story' 'fantasy'],9.84,용의 아들 최창식,285855
+293520,['story' 'drama' 'pure'],9.91,오렌지 마말레이드,293520
+293521,['story' 'daily'],9.93,삐뚤빼뚤해도 괜찮아,293521
+293523,['omnibus' 'drama'],9.95,닥터 프로스트,293523
+297795,['story' 'fantasy'],9.94,크리퍼스큘,297795
+297796,['story' 'comic' 'drama'],9.95,사랑의 아쿠아리움,297796
+300957,['story' 'drama'],9.77,까치우는 날,300957
+301377,['story' 'sports'],9.58,뷰티플 게임,301377
+301382,['omnibus' 'drama'],9.92,웨스트우드 비브라토,301382
+308751,['story' 'comic'],9.94,잉잉잉,308751
+308801,['story' 'drama'],9.93,봄이여 오라,308801
+310616,['story' 'fantasy'],9.93,원티드,310616
+310617,['story' 'comic'],9.86,영웅열공전,310617
+312979,['episode' 'daily'],7.01,힘내요 일본!-[릴레이웹툰],312979
+316908,['story' 'sensibility'],9.83,멍순이,316908
+316909,['story' 'fantasy'],9.97,그 판타지 세계에서 사는 법,316909
+316911,['story' 'fantasy'],9.94,탈(TAL),316911
+316912,['episode' 'daily' 'sensibility'],9.95,내 어린고양이와 늙은개,316912
+316913,['story' 'drama'],9.89,봉봉오쇼콜라,316913
+316914,['episode' 'daily' 'comic'],9.89,혈액형에 관한 간단한 고찰,316914
+317362,['story' 'drama'],9.26,다욤이의 다이어트 다이어리,317362
+317365,['story' 'daily'],9.92,고시생툰,317365
+318992,['story' 'pure'],9.93,우연일까?,318992
+318995,['story' 'action'],9.76,갓 오브 하이스쿨,318995
+325629,['story' 'comic'],8.32,패션왕,325629
+325630,['story' 'fantasy' 'drama'],9.89,기태류,325630
+325631,['story' 'fantasy'],9.80,시간의 섬,325631
+332797,['episode' 'sensibility'],9.89,움비처럼,332797
+335885,['story' 'daily' 'comic'],9.96,가우스전자 시즌1~2,335885
+336944,['story' 'comic' 'drama'],9.73,오란씨100,336944
+336945,['story' 'drama' 'sensibility'],9.75,길에서 만나다,336945
+337962,['story' 'drama'],9.58,오늘의 낭만부,337962
+337963,['story' 'fantasy' 'drama'],9.87,지상 최악의 소년,337963
+337964,['story' 'comic'],9.93,타임인조선,337964
+347685,['story' 'comic' 'drama'],7.36,슈퍼트리오 시즌2,347685
+350217,['omnibus' 'thrill'],8.44,2011 미스테리 단편,350217
+358286,['story' 'drama'],9.89,단편 할머니/나는내일죽는다,358286
+358422,['story' 'action' 'drama'],9.42,소녀더와일즈,358422
+360613,['story' 'fantasy'],9.31,리버스,360613
+374970,['story' 'drama'],9.96,얼룩말,374970
+374973,['story' 'drama' 'historical'],9.95,문아,374973
+374974,['story' 'comic' 'fantasy'],9.86,심심한 마왕,374974
+387517,['story' 'comic' 'drama'],9.79,나란의사 그런의사,387517
+387518,['episode' 'daily' 'comic'],9.95,달콤한 인생,387518
+389845,['story' 'pure'],9.79,블라인드 메르헨,389845
+389848,['story' 'action'],9.95,헬퍼,389848
+395442,['story' 'comic' 'action'],9.78,격투기특성화사립고교 극지고,395442
+395444,['episode' 'fantasy'],9.81,"이현세, 이두호의 지옥캠프 단편선",395444
+400735,['story' 'drama' 'historical'],9.86,한섬세대,400735
+400736,['story' 'fantasy' 'thrill'],9.83,초록인간,400736
+400737,['story' 'comic' 'drama'],9.74,고삼이 집나갔다,400737
+400738,['episode' 'daily' 'comic'],9.92,부토,400738
+400739,['story' 'fantasy'],9.76,에이머,400739
+400740,['story' 'fantasy'],9.96,천년구미호,400740
+400741,['story' 'fantasy'],9.95,카오스어택,400741
+400742,['story' 'fantasy' 'drama'],9.97,이런 영웅은 싫어,400742
+403631,['episode' 'daily' 'comic'],9.74,스마트폰 게임 개발 이야기,403631
+407142,['story' 'thrill'],9.77,연 시즌2,407142
+409100,['episode'],6.27,만화사랑 캠페인,409100
+409628,['omnibus' 'fantasy'],9.84,S라인,409628
+409629,['story' 'fantasy' 'thrill'],9.95,죽은 마법사의 도시,409629
+409630,['episode' 'daily' 'comic'],9.82,역전! 야매요리,409630
+414609,['story' 'fantasy'],9.95,바람이 머무는 난,414609
+414611,['story' 'sports'],9.51,라이징패스트볼,414611
+414612,['story' 'daily' 'drama'],9.95,꽃밭에솔,414612
+423376,['story' 'daily' 'drama'],9.84,비바 산티아고,423376
+423377,['story' 'fantasy' 'drama'],9.87,월남특급,423377
+423383,['story' 'comic' 'fantasy' 'action'],9.88,스페이스 차이나드레스,423383
+423384,['story' 'fantasy'],9.96,소울카르텔,423384
+423392,['story' 'fantasy' 'drama'],9.94,좀비를 위한 나라는 없다,423392
+434644,['story' 'comic' 'action'],8.64,폭풍의 전학생 - 리부트,434644
+440244,['story' 'fantasy'],9.95,제페토,440244
+440437,['story' 'fantasy' 'thrill'],9.90,투명살인,440437
+440439,['story' 'comic' 'pure'],9.90,플라스틱 걸,440439
+440447,['story' 'fantasy' 'drama'],9.84,wish-마녀의 시간,440447
+443421,['story' 'comic'],9.92,악당의 사연,443421
+443422,['story' 'comic'],9.91,키드갱,443422
+449854,['story' 'comic' 'action'],3.81,돌아온 럭키짱,449854
+452116,['story' 'drama' 'pure'],9.96,MY OH,452116
+452117,['story' 'comic'],9.94,미숙한 친구는 G구인,452117
+459545,['story' 'drama' 'pure'],9.96,당신만 몰라!,459545
+459546,['story' 'drama'],9.94,삼봉이발소,459546
+460686,['story' 'drama' 'pure'],9.94,아는사람 이야기,460686
+460687,['omnibus' 'drama'],9.95,아이들의 권 선생님,460687
+460688,['story' 'fantasy' 'thrill'],9.96,노네임드(NoNameD),460688
+460689,['story' 'drama'],9.94,기타맨,460689
+462900,['story' 'fantasy' 'drama'],9.96,한줌물망초,462900
+471181,['story' 'action'],9.88,기사도,471181
+471283,['episode' 'daily'],9.71,모두에게 완자가,471283
+471284,['story' 'thrill'],9.37,후유증,471284
+471286,['story' 'comic' 'action'],9.94,키드갱 시즌2,471286
+478262,['story' 'fantasy' 'action'],9.95,레사(lessa),478262
+481793,['story' 'drama' 'pure'],9.24,ENT.,481793
+483613,['story' 'action'],9.93,킬러분식,483613
+483796,['story' 'fantasy' 'thrill'],9.74,강시대소동,483796
+490549,['omnibus' 'fantasy' 'drama'],9.26,2012 지구가 멸망한다면?,490549
+492659,['story' 'pure'],9.93,사랑일까?,492659
+495498,['story' 'comic' 'drama'],9.55,빵점동맹,495498
+497180,['story' 'fantasy' 'action'],9.95,언더클래스 히어로,497180
+498158,['episode' 'comic'],9.63,네이버 앱피소드,498158
+499334,['omnibus' 'drama'],9.49,지옥캠프 단편선 시즌2,499334
+500943,['story' 'thrill'],9.70,새벽9시,500943
+500944,['story' 'drama'],9.93,무한동력,500944
+500945,['omnibus' 'daily'],9.95,한 살이라도 어릴 때,500945
+502673,['story' 'fantasy'],9.69,파라다이스,502673
+503253,['story' 'comic'],9.76,웃지 않는 개그반 시즌1~2,503253
+50422,['episode'],9.55,개편 축하 릴레이 카툰,50422
+505715,['story' 'comic'],9.92,꽃가족,505715
+507274,['story' 'comic'],9.93,위아더 능력자!,507274
+507275,['omnibus' 'fantasy' 'drama'],9.95,네로의 실험실,507275
+507276,['story' 'fantasy' 'drama'],9.94,그녀는 흡!혈귀,507276
+507637,['omnibus' 'thrill'],9.89,금요일,507637
+507638,['story' 'fantasy' 'drama'],9.97,신령,507638
+509092,['story' 'pure'],9.90,시큼새큼,509092
+509093,['story' 'drama'],9.86,아빠를 찾습니다,509093
+509094,['story' 'fantasy' 'thrill'],9.85,조선좀비실록,509094
+51006,['story' 'fantasy' 'pure'],9.76,은하연인전,51006
+51007,['omnibus' 'comic'],9.87,리얼주주,51007
+511444,['story' 'comic'],9.91,버프소녀 오오라,511444
+511446,['story' 'comic'],9.30,닭통령 계양반,511446
+511447,['story' 'fantasy' 'action'],9.76,어빌리티,511447
+511454,['story' 'comic'],9.54,우주전함 몰라몰라,511454
+514917,['story' 'comic'],9.95,나의 목소리를 들어라,514917
+515883,['story' 'fantasy' 'drama'],9.80,사또(Satto),515883
+517252,['story' 'fantasy'],9.92,스페이스 킹,517252
+517773,['story' 'fantasy' 'drama'],9.82,방과 후 전쟁활동,517773
+520598,['story' 'drama'],9.80,스펙트럼 분석기,520598
+520599,['story' 'action'],9.92,진진돌이 제로,520599
+520600,['story' 'action'],9.94,인형의 기사,520600
+521504,['story' 'comic'],9.94,모던패밀리,521504
+521533,['story' 'comic'],9.92,SM 플레이어,521533
+524353,['story' 'comic'],9.90,경운기를 탄 왕자님,524353
+524520,['story' 'fantasy'],9.97,트럼프,524520
+528781,['story' 'drama'],9.93,기적! 우리에게 일어난 일들,528781
+528782,['story' 'drama'],9.69,사랑을 연기하다,528782
+528784,['story' 'comic'],7.46,맛집남녀,528784
+528785,['omnibus' 'drama'],9.94,차차차,528785
+52946,['episode' 'daily' 'comic'],9.89,스쿨홀릭,52946
+52993,['story' 'thrill'],9.94,우월한하루,52993
+530311,['story' 'drama'],9.95,코끼리를 끌어안는 방법,530311
+530312,['story' 'drama'],9.67,독신으로 살겠다,530312
+532057,['story' 'drama'],9.94,투엔티스,532057
+537989,['story' 'daily' 'drama'],9.70,장미아파트 공경비,537989
+537990,['story' 'fantasy' 'drama'],9.69,싸귀2 : 퇴마록,537990
+537991,['story' 'fantasy' 'drama'],9.95,사랑의 외계인,537991
+546620,['story' 'drama'],9.92,바람의 색,546620
+546622,['omnibus' 'fantasy'],9.93,레인보우 로즈,546622
+546623,['story' 'fantasy' 'historical'],9.88,페르샤,546623
+546624,['story' 'drama'],9.95,국립자유경제 고등학교 세실고,546624
+546625,['story' 'drama'],9.94,동네변호사 조들호 시즌1,546625
+546626,['story' 'drama' 'pure' 'sensibility'],9.95,새와 같이,546626
+546750,['episode' 'comic'],9.88,내일은 웹툰,546750
+546805,['story' 'comic' 'drama'],9.96,알게뭐야,546805
+548870,['story' 'comic' 'action'],9.79,굿모닝 보스,548870
+55120,['omnibus' 'daily' 'comic'],9.84,내가 결혼할 때까지,55120
+55143,['episode' 'daily' 'sensibility'],9.94,일상날개짓,55143
+55150,['omnibus' 'comic' 'drama'],9.94,남기한엘리트만들기,55150
+551647,['story' 'action'],7.75,킥,551647
+551648,['story' 'drama' 'historical'],9.95,오성X한음,551648
+551649,['story' 'drama' 'historical'],9.92,낮에 뜨는 달,551649
+551650,['episode' 'comic'],9.70,오빠 왔다,551650
+551651,['story' 'drama'],9.84,악플게임,551651
+55169,['episode' 'daily' 'comic'],9.85,나이스진타임,55169
+552960,['story' 'fantasy' 'action'],8.55,더 게이머,552960
+557672,['omnibus' 'thrill'],9.92,기기괴괴,557672
+557673,['story' 'daily' 'drama' 'sensibility'],9.94,수업시간그녀,557673
+557674,['story' 'drama'],9.92,미선 임파서블,557674
+557675,['story' 'drama'],9.93,하나(HANA),557675
+557676,['story' 'fantasy'],9.55,다이스(DICE),557676
+557678,['story' 'fantasy' 'thrill'],9.75,그날의 생존자들,557678
+563782,['episode' 'daily'],9.95,아랫집 시누이,563782
+563784,['story' 'fantasy' 'action'],9.95,뱀파이어,563784
+563785,['story' 'fantasy' 'action'],9.96,플로우,563785
+563786,['story' 'fantasy' 'action'],9.94,"OH, MY GOD!",563786
+563787,['story' 'fantasy' 'thrill'],9.95,피리부는 남자,563787
+568986,['story' 'daily' 'fantasy'],9.77,용이산다,568986
+570502,['story' 'daily' 'drama' 'sensibility'],9.95,아이들은 즐겁다,570502
+570503,['story' 'comic' 'drama'],9.87,연애혁명,570503
+570504,['story' 'drama' 'pure'],9.93,열무가 익어간다,570504
+570505,['story' 'drama' 'historical'],9.96,"아이소포스 1, 2부",570505
+570506,['story' 'action' 'drama'],9.70,최강전설 강해효,570506
+570696,['story' 'drama' 'pure'],9.78,우리의 이상한 여행,570696
+574303,['omnibus' 'thrill' 'historical'],9.20,2013 전설의고향,574303
+578105,['story' 'drama'],9.95,네가 없는 세상,578105
+578106,['story' 'drama' 'sensibility'],9.95,소나기야,578106
+578108,['story' 'drama' 'pure'],9.88,강변살다,578108
+578109,['story' 'pure'],9.83,러브슬립 2부,578109
+57875,['story' 'comic' 'drama'],9.25,슈퍼트리오,57875
+579352,['story' 'drama'],9.81,에피소드칵테일,579352
+579414,['story' 'daily' 'drama'],9.95,은주의 방,579414
+579416,['story' 'fantasy' 'thrill'],9.79,리즌,579416
+579417,['story' 'fantasy'],9.87,판타지스케치 - 더 게임,579417
+58219,['story' 'drama'],9.84,연옥님이 보고계셔,58219
+58293,['story' 'drama'],9.84,가족사진,58293
+590252,['omnibus'],9.90,한국만화거장전,590252
+592721,['story' 'thrill'],9.95,죄의 파편,592721
+597447,['story' 'drama'],9.94,프리드로우,597447
+597449,['story' 'sensibility'],9.98,샌프란시스코 화랑관,597449
+597466,['story' 'fantasy' 'drama'],9.96,매지컬 고삼즈,597466
+597473,['story' 'fantasy' 'drama'],9.97,원 뿔러스 원,597473
+597478,['story' 'comic' 'drama'],9.91,평범한 8반,597478
+597480,['story' 'drama' 'pure'],9.97,스튜디오 짭쪼롬,597480
+597481,['story' 'drama'],9.89,찌질의 역사,597481
+597593,['omnibus' 'drama'],9.81,지옥캠프 단편선 시즌3,597593
+599232,['episode' 'comic'],9.72,실질객관영화,599232
+602287,['story' 'fantasy'],9.90,신의 언어,602287
+602910,['story' 'drama' 'sports'],9.96,윈드브레이커,602910
+602916,['story' 'historical'],9.90,칼부림,602916
+602921,['story' 'comic' 'fantasy'],8.86,이말년 서유기,602921
+602922,['story' 'drama'],9.96,송곳 1~3부,602922
+602923,['story' 'drama' 'pure'],9.96,안 돼요 마왕님!,602923
+602925,['story' 'fantasy'],9.33,드래곤레시피,602925
+602930,['story' 'drama'],9.94,너와 너 사이,602930
+603159,['story' 'fantasy'],9.96,레사 시즌2~3,603159
+604146,['story' 'drama'],8.61,모디파이,604146
+604147,['episode' 'daily' 'comic' 'drama' 'pure' 'sensibility' 'thrill'],9.78,터치! 메리크리스마스,604147
+607486,['story' 'drama'],9.87,미결,607486
+608258,['episode' 'daily' 'drama'],9.89,아프니까 병원이다,608258
+608259,['story' 'drama' 'thrill'],9.91,레드카펫,608259
+608261,['story' 'thrill'],9.40,심연의 하늘 시즌 1~3,608261
+608263,['story' 'drama' 'pure'],9.96,늘 푸른 찻집,608263
+608265,['story' 'comic' 'drama'],9.97,질풍기획 시즌2,608265
+609477,['episode' 'comic'],9.41,소년들은 무엇을 하고 있을까,609477
+609480,['story' 'fantasy' 'drama' 'thrill'],9.95,하이브,609480
+612767,['story' 'fantasy' 'action'],9.95,블랙시저스,612767
+612769,['story' 'fantasy' 'drama' 'pure'],9.97,언터처블,612769
+613076,['story' 'fantasy' 'action'],9.84,퇴마전쟁,613076
+613933,['story' 'drama' 'pure'],9.96,운빨로맨스,613933
+616238,['story' 'fantasy' 'action'],9.94,사이드킥,616238
+616239,['episode' 'daily' 'comic'],9.94,윌유메리미,616239
+616883,['episode' 'daily' 'drama'],9.79,미쳐 날뛰는 생활툰,616883
+61731,['episode' 'daily' 'comic'],9.84,판다독,61731
+617882,['episode'],9.68,모던패밀리 2,617882
+619329,['story' 'drama' 'historical'],9.96,페르샤 시즌2,619329
+619935,['story' 'drama'],9.28,일등당첨,619935
+621494,['story' 'drama'],9.97,국립자유경제고등학교 세실고 2학기,621494
+62251,['story' 'fantasy'],9.15,플루타크 영웅전,62251
+622638,['story' 'fantasy' 'drama'],9.96,섀도우,622638
+622639,['story' 'comic' 'drama'],9.94,헬로 미스터 테디,622639
+622640,['story' 'drama' 'pure'],9.98,프린스의 왕자,622640
+622641,['story' 'fantasy' 'drama'],9.94,붉은 실,622641
+622643,['story' 'pure' 'sensibility'],9.97,진눈깨비 소년,622643
+622644,['story' 'fantasy' 'drama'],9.37,아메리카노 엑소더스,622644
+622646,['story' 'drama'],9.95,마녀사냥,622646
+622647,['story' 'comic' 'fantasy' 'drama'],9.91,출격! 반보트,622647
+622648,['story' 'comic' 'fantasy' 'drama'],9.92,모태솔로수용소,622648
+624632,['omnibus' 'fantasy' 'action' 'drama'],9.88,마루한 - 구현동화전,624632
+626904,['story' 'fantasy' 'pure'],9.97,시타를 위하여,626904
+626906,['episode' 'daily'],9.97,패밀리 사이즈,626906
+626907,['story' 'drama'],9.38,복학왕,626907
+626938,['story' 'drama' 'pure'],9.96,프린세스 1~4부,626938
+626939,['story' 'fantasy' 'action'],9.96,둥굴레차!,626939
+626940,['story' 'fantasy'],9.98,오즈랜드,626940
+626946,['story' 'fantasy' 'thrill'],9.94,버퍼링,626946
+626949,['story' 'fantasy' 'drama'],9.94,바로잡는 순애보,626949
+628876,['story' 'drama' 'thrill'],9.95,나는 너를 보았다,628876
+628997,['story' 'thrill'],9.98,후레자식,628997
+628998,['story' 'thrill'],9.97,데드데이즈(DEAD DAYS),628998
+629055,['story' 'comic' 'drama'],9.78,불만시대,629055
+629056,['story' 'fantasy' 'pure'],9.98,윈터우즈,629056
+630386,['story' 'fantasy' 'drama'],9.95,인챈트-나람이야기,630386
+630832,['story' 'action' 'drama'],9.93,크레이터,630832
+63129,['story' 'pure'],9.21,보톡스,63129
+631780,['omnibus'],9.69,"2014 네이버 웹툰, 왓 이프?",631780
+632330,['story' 'thrill'],9.97,빙의,632330
+632337,['story' 'drama' 'thrill'],9.96,재앙은 미묘하게,632337
+632341,['story' 'drama' 'sensibility'],9.98,남과 여,632341
+632342,['episode' 'daily'],9.95,오늘 밤은 어둠이 무서워요,632342
+632344,['story' 'drama' 'pure'],9.96,두근거려요,632344
+632705,['story' 'thrill'],9.95,딥(DEEP),632705
+63453,['story' 'drama' 'historical'],9.91,묵회,63453
+63454,['omnibus' 'drama'],9.88,구름의 노래,63454
+63455,['story' 'fantasy'],9.16,불량 뱀파이어,63455
+635174,['story' 'fantasy' 'action'],9.77,씬커,635174
+635187,['omnibus'],9.90,지옥캠프 단편선 시즌4,635187
+635989,['story' 'drama' 'pure'],9.89,우리 헤어졌어요,635989
+637931,['story' 'comic' 'fantasy'],9.97,전자오락수호대,637931
+638994,['story' 'drama' 'pure'],9.97,Ho!,638994
+639080,['story' 'drama' 'pure'],9.96,영수의 봄,639080
+639604,['episode' 'comic'],9.95,여탕보고서,639604
+640050,['episode' 'daily' 'drama'],9.97,엄마와 딸 x2,640050
+640110,['story' 'fantasy' 'drama'],9.98,숲 속의 미마,640110
+641253,['story' 'fantasy' 'drama'],9.51,외모지상주의,641253
+641580,['story' 'fantasy' 'thrill'],9.93,일사부재리,641580
+642598,['episode' 'comic' 'historical'],9.89,조선왕조실톡,642598
+642599,['story' 'drama' 'sensibility'],9.98,아이덴티티,642599
+642604,['story' 'drama' 'sports'],9.95,화이트멜로우,642604
+642653,['story' 'fantasy' 'action'],9.97,사이드킥 2~3,642653
+642700,['story' 'drama'],9.82,공복의 저녁식사,642700
+643123,['story' 'drama' 'pure'],9.98,녹두전,643123
+643302,['story' 'fantasy' 'drama'],9.67,중립디자인구역,643302
+643607,['story' 'pure'],9.86,한국만화거장전 : 순정만화특집,643607
+644111,['story' 'drama'],9.28,손의 흔적,644111
+644112,['story' 'historical'],9.95,몽홀,644112
+644117,['omnibus' 'fantasy' 'action' 'drama'],9.53,2015 우주특집 단편,644117
+644180,['omnibus' 'comic'],9.91,하루 3컷,644180
+644182,['story' 'fantasy' 'drama'],9.94,지새는 달,644182
+646358,['episode' 'comic' 'thrill'],9.89,백귀야행지,646358
+646359,['episode' 'comic'],9.80,밥풀때기,646359
+646568,['story' 'drama'],9.90,2호선 세입자,646568
+647946,['story' 'drama' 'sensibility'],9.98,여중생A,647946
+647947,['story' 'drama' 'thrill'],9.98,저승에서 만난 사람들,647947
+647948,['story' 'drama' 'pure'],9.69,프린세스 5부,647948
+648419,['story' 'drama'],9.81,뷰티풀 군바리,648419
+64997,['story' 'fantasy'],9.94,나이트런,64997
+650292,['story' 'comic' 'drama'],9.98,달수 이야기,650292
+650304,['episode' 'fantasy' 'pure' 'sensibility'],9.98,슈퍼 시크릿,650304
+650305,['story' 'fantasy' 'action' 'historical'],9.98,호랑이형님,650305
+651617,['story' 'daily' 'comic' 'fantasy'],9.96,연애의 정령,651617
+651663,['episode' 'fantasy' 'thrill'],9.78,빨간책,651663
+651664,['episode' 'drama' 'sensibility'],9.97,밥 먹고 갈래요?,651664
+651665,['story' 'comic' 'action'],9.84,야부리맨,651665
+651667,['story' 'comic' 'action'],8.62,낚시신공,651667
+651670,['episode' 'daily' 'drama'],9.96,낢 부럽지 않은 신혼여행기,651670
+651673,['episode' 'daily' 'comic'],9.97,유미의 세포들,651673
+651675,['omnibus' 'daily' 'sensibility'],9.97,우바우,651675
+652122,['story' 'fantasy' 'pure'],9.96,철벽! 연애 시뮬레이션,652122
+652403,['story' 'daily' 'pure' 'sensibility'],9.97,올해의 벚꽃도 함께,652403
+652418,['story' 'fantasy' 'drama' 'sensibility'],9.98,파도의 주인,652418
+652466,['episode' 'sports'],9.81,조석축구만화,652466
+653344,['story' 'fantasy' 'drama'],9.86,기로,653344
+653857,['story' 'fantasy' 'action' 'historical'],9.95,버닝헬,653857
+65410,['story' 'drama'],9.95,두근두근두근거려,65410
+654138,['story' 'daily' 'drama'],9.93,은주의 방 2~3부,654138
+654316,['story' 'drama' 'pure'],9.94,우렁집사,654316
+654317,['story' 'comic' 'action'],9.72,전설의 레전드,654317
+654318,['story' 'drama' 'thrill'],9.96,미래소녀,654318
+654331,['episode' 'daily' 'comic'],9.97,썸남,654331
+654333,['story' 'comic' 'drama'],9.85,이별만화 완성도,654333
+654774,['story' 'daily' 'drama' 'pure'],9.98,소녀의 세계,654774
+654809,['story' 'drama' 'pure' 'sensibility'],9.98,스피릿 핑거스,654809
+654817,['story' 'comic' 'fantasy'],9.96,미라클! 용사님,654817
+655277,['story' 'fantasy' 'drama' 'sensibility'],9.97,고고고,655277
+655744,['story' 'fantasy' 'pure'],9.98,오!주예수여,655744
+655746,['story' 'fantasy'],9.97,마법스크롤 상인 지오,655746
+655747,['story' 'daily' 'drama' 'pure'],9.45,날로 먹는 연애,655747
+655748,['story' 'drama' 'pure'],9.95,공주는 잠 못 이루고,655748
+655749,['omnibus' 'drama' 'sensibility' 'thrill'],9.97,닥터 프로스트 시즌3,655749
+656469,['omnibus' 'daily'],9.83,천적,656469
+656641,['story' 'thrill'],9.95,적생,656641
+657522,['story' 'thrill'],9.48,악의는 없다,657522
+657934,['omnibus' 'daily' 'thrill'],9.83,2015 소름,657934
+657948,['story' 'comic' 'fantasy' 'drama'],9.98,서북의 저승사자,657948
+658076,['story' 'fantasy' 'action'],9.95,팀 피닉스,658076
+658823,['story' 'historical'],9.88,천국의 신화,658823
+659934,['episode' 'daily' 'comic' 'sensibility'],9.98,나는 귀머거리다,659934
+660025,['story' 'drama'],9.94,송곳 4~5부,660025
+660333,['story' 'thrill'],9.95,마야고,660333
+660366,['story' 'comic' 'drama' 'sensibility'],9.96,마스크걸,660366
+661043,['story' 'action' 'drama' 'thrill'],9.87,상중하,661043
+661085,['story' 'fantasy' 'action' 'drama'],9.96,블레이드 노트,661085
+662160,['story' 'fantasy' 'drama' 'thrill'],9.88,후유증 2,662160
+662162,['story' 'drama' 'pure'],9.97,치즈인더트랩 4부,662162
+662774,['story' 'fantasy' 'action'],9.97,고수,662774
+662898,['story' 'fantasy' 'action'],9.69,라크리모사,662898
+663887,['episode' 'comic'],9.44,아이돌 연구소,663887
+664406,['story' 'fantasy' 'action'],9.65,네버랜 연대기,664406
+665170,['story' 'fantasy' 'action'],9.97,귀도호가록,665170
+665174,['episode' 'comic' 'fantasy'],9.47,만렙소녀 오오라,665174
+665618,['story' 'comic'],8.70,웃지 않는 개그반 시즌3,665618
+666196,['story' 'drama' 'pure'],9.95,프린스의 왕자 - 카페 드 쇼콜라 -,666196
+666516,['omnibus' 'drama' 'pure'],9.88,2015 사이,666516
+666537,['story' 'fantasy' 'action' 'drama'],9.93,3P,666537
+666670,['story' 'comic' 'drama'],9.93,모태솔로수용소 시즌2~3,666670
+666671,['story' 'thrill'],9.93,컨트롤제트,666671
+666673,['omnibus'],9.92,지옥캠프 단편선 시즌5,666673
+667010,['omnibus' 'drama' 'sensibility'],9.97,오민혁 단편선,667010
+667573,['story' 'daily' 'drama' 'pure'],9.92,연놈,667573
+668101,['story' 'drama'],9.93,결계녀,668101
+668102,['omnibus' 'thrill'],9.97,소곤소곤,668102
+668103,['story' 'fantasy' 'drama'],9.94,시노딕,668103
+668723,['story' 'fantasy' 'pure' 'sensibility'],9.98,이상하고 아름다운,668723
+66913,['omnibus' 'drama'],9.77,사노라면,66913
+669357,['story' 'drama'],9.84,해피,669357
+669358,['story' 'fantasy' 'action'],9.87,레드돌,669358
+669360,['story' 'fantasy' 'action'],9.90,뱀피르,669360
+670131,['story' 'historical'],9.93,천국의 신화 6부,670131
+670139,['story' 'action'],9.55,부활남,670139
+670140,['episode' 'comic'],9.89,203호 저승사자,670140
+670143,['story' 'action'],9.95,헬퍼 2 : 킬베로스,670143
+670144,['story' 'comic' 'fantasy' 'historical'],9.99,가담항설,670144
+670145,['story' 'drama' 'thrill'],9.54,킬더킹,670145
+670146,['omnibus' 'comic' 'fantasy'],9.93,놓정동화,670146
+670147,['story' 'fantasy' 'drama'],9.98,레코닝,670147
+670149,['story' 'action'],9.95,테러맨,670149
+670150,['story' 'fantasy' 'action' 'drama'],9.98,나노리스트,670150
+670151,['episode' 'daily' 'comic'],9.94,갸오오와 사랑꾼들,670151
+670152,['story' 'fantasy' 'action'],9.95,열렙전사,670152
+671421,['episode' 'comic'],9.91,언덕 위의 제임스,671421
+67235,['story' 'thrill'],9.49,지금 우리 학교는,67235
+67340,['story' 'sports'],7.97,번데기스,67340
+674209,['story' 'comic' 'drama'],9.94,스퍼맨,674209
+675331,['story' 'fantasy' 'action' 'drama' 'thrill'],9.97,하이브3,675331
+675392,['story' 'comic' 'action'],9.86,첩보의 별,675392
+675393,['story' 'fantasy' 'drama'],9.91,한번 더 해요,675393
+675474,['story' 'fantasy' 'historical'],9.95,아이소포스 3부,675474
+675516,['story' 'daily' 'drama' 'sensibility'],9.97,참치와 돌고래,675516
+675554,['episode' 'daily' 'comic'],9.97,가우스전자 시즌3~4,675554
+675556,['episode' 'daily' 'comic'],9.41,2016 학교 다녀오겠습니다,675556
+675559,['episode' 'daily' 'sensibility'],9.94,부부생활,675559
+675822,['story' 'thrill'],9.93,대작,675822
+675823,['story' 'thrill'],9.95,감염자,675823
+675829,['story' 'drama'],8.00,동네변호사 조들호 시즌2,675829
+675830,['story' 'action'],9.94,MZ,675830
+676695,['story' 'fantasy' 'drama'],9.97,제로게임,676695
+677452,['story' 'drama'],9.96,체크포인트,677452
+677536,['story' 'comic' 'pure'],9.83,내 ID는 강남미인!,677536
+677737,['story' 'action'],9.91,대가리,677737
+677740,['story' 'pure'],9.91,투명한 동거,677740
+677753,['omnibus' 'comic'],9.82,킬러 김빵빵,677753
+678494,['story' 'fantasy' 'action'],9.94,동토의 여명,678494
+678499,['story' 'comic'],9.97,공대생 너무만화,678499
+678500,['story' 'fantasy' 'thrill'],9.96,아일랜드 1부,678500
+679519,['episode' 'daily' 'comic'],9.97,대학일기,679519
+679543,['story' 'fantasy'],9.87,아테나 컴플렉스,679543
+679544,['story' 'comic' 'fantasy'],9.96,문유,679544
+679545,['story' 'drama' 'pure'],9.67,블랙수트,679545
+679547,['story' 'thrill'],7.01,심연의 하늘 시즌4,679547
+679567,['story' 'fantasy' 'drama'],9.94,금수저,679567
+679568,['story' 'fantasy' 'action'],9.96,마이너스의 손,679568
+679569,['omnibus' 'comic' 'drama'],9.95,차원이 다른 만화,679569
+679570,['story' 'drama' 'pure' 'thrill'],9.97,귀각시,679570
+680193,['episode' 'drama'],9.88,한국만화거장전 : 만화보물섬,680193
+680911,['episode' 'comic'],9.33,무한도전 릴레이툰,680911
+681453,['story' 'drama' 'pure'],9.98,지금 이 순간 마법처럼,681453
+682222,['omnibus' 'thrill'],9.91,귀도,682222
+682265,['episode' 'drama'],9.94,3인칭,682265
+682637,['episode' 'daily' 'comic'],9.95,놓지마 정신줄 시즌2,682637
+682803,['omnibus' 'thrill'],9.14,2016 비명,682803
+683496,['story' 'fantasy' 'action'],9.97,신도림,683496
+684435,['story' 'comic' 'fantasy'],9.93,구구까까,684435
+685460,['story' 'fantasy'],9.98,골든 체인지,685460
+685989,['story' 'drama' 'thrill'],9.60,폰령,685989
+686018,['episode' 'daily'],9.97,오늘도 핸드메이드!,686018
+686312,['episode' 'daily' 'drama'],9.92,열정호구,686312
+686669,['story' 'comic'],9.92,첩보의 별 시즌2,686669
+68684,['omnibus' 'drama'],9.91,핑크레이디 클래식,68684
+686885,['omnibus'],9.94,지옥캠프 단편선 시즌6,686885
+686911,['episode' 'comic'],4.40,공감.jpg,686911
+687137,['episode' 'drama' 'sensibility'],9.98,구름의 이동속도,687137
+687610,['episode' 'daily'],9.91,잡다한컷,687610
+687915,['story' 'fantasy' 'thrill'],9.97,꿈의 기업,687915
+687921,['story' 'fantasy' 'action'],9.97,아일랜드 2부,687921
+689701,['story' 'drama'],9.96,"이기자, 그린",689701
+689705,['story' 'drama' 'pure'],9.97,완벽한 허니문,689705
+690020,['story' 'comic'],9.76,군인RPG,690020
+690502,['omnibus' 'daily' 'comic' 'drama'],9.78,2017 사이다를 부탁해!,690502
+690503,['story' 'comic' 'action'],9.91,도망자,690503
+690594,['episode' 'comic' 'drama'],9.97,우리집에 곰이 이사왔다,690594
+69113,['omnibus'],9.39,고(故)노무현 前대통령 추모웹툰,69113
+692510,['episode' 'daily' 'comic'],9.97,오늘도 형제는 평화롭다,692510
+692512,['story' 'action' 'thrill'],9.95,데모니악,692512
+69296,['story' 'fantasy'],9.91,진진돌이 에볼루션,69296
+69297,['story' 'fantasy'],9.66,번개기동대 2009,69297
+693429,['story' 'pure'],9.94,그들에게 사면초가,693429
+693431,['story' 'fantasy' 'drama' 'sensibility'],9.98,계룡선녀전,693431
+693444,['story' 'fantasy'],9.97,Doll 체인지,693444
+693445,['story' 'pure'],5.70,열일곱,693445
+694131,['story' 'fantasy' 'action'],9.97,퍼스트 미션,694131
+694191,['story' 'action'],9.97,퓨어 이블,694191
+694805,['story' 'drama' 'pure' 'sensibility'],9.95,하나의 하루,694805
+694806,['story' 'daily' 'drama' 'sensibility'],9.98,야채호빵의 봄방학,694806
+694807,['story' 'comic' 'fantasy'],9.96,마왕이 되는 중2야,694807
+694946,['omnibus' 'fantasy' 'drama' 'sensibility' 'thrill'],9.98,귀전구담,694946
+695321,['episode' 'fantasy' 'drama' 'historical'],9.98,빙탕후루,695321
+695585,['story' 'drama' 'thrill'],9.97,뱀이 앉은 자리,695585
+695768,['story' 'comic' 'fantasy' 'drama'],9.63,오늘부터 주군,695768
+695796,['omnibus' 'daily' 'fantasy' 'drama'],9.98,내일,695796
+696593,['omnibus' 'drama' 'thrill'],9.95,DEY 호러채널,696593
+696602,['story' 'daily' 'drama' 'sensibility'],9.76,연애학,696602
+696617,['story' 'thrill'],9.97,피에는 피,696617
+697254,['story' 'drama' 'pure'],9.96,푸른사막 아아루,697254
+697533,['story' 'drama' 'thrill'],9.94,미시령,697533
+697535,['episode'],9.68,웅이는 배고파,697535
+697537,['story'],9.90,허니허니 웨딩,697537
+697654,['story' 'thrill'],9.98,인간의 숲 (재),697654
+697655,['story' 'thrill'],9.97,절벽귀 (재),697655
+697656,['story' 'thrill'],9.94,조의 영역,697656
+697679,['story' 'comic'],9.98,쌉니다 천리마마트 (재),697679
+697680,['episode' 'daily' 'comic'],9.98,선천적 얼간이들 (재),697680
+697681,['story' 'comic' 'drama'],9.98,목욕의 신 (재),697681
+697685,['story' 'fantasy' 'drama'],9.98,신과함께 (재),697685
+698247,['story' 'pure' 'sensibility'],9.98,찬란하지 않아도 괜찮아,698247
+698469,['story' 'fantasy' 'action' 'drama'],9.90,언원티드,698469
+698888,['story' 'comic' 'drama'],9.94,이것도 친구라고,698888
+698918,['story' 'comic' 'thrill'],9.93,원주민 공포만화,698918
+699413,['episode' 'daily' 'comic' 'sensibility'],3.97,고민툰,699413
+699415,['story' 'daily' 'comic' 'fantasy' 'drama' 'pure'],9.98,간 떨어지는 동거,699415
+699658,['story'],9.98,오늘도 사랑스럽개,699658
+699659,['story'],9.92,좋아하는 부분,699659
+700139,['episode'],9.98,환생동물학교,700139
+700327,['omnibus' 'thrill'],9.93,2017 멋진 신세계,700327
+700361,['story' 'drama' 'thrill'],9.97,미스터리 호러 지하철 (재),700361
+70045,['story' 'drama'],9.81,TLT season2,70045
+70046,['episode' 'comic'],9.90,실질객관동화,70046
+700843,['story' 'comic' 'drama' 'pure'],9.95,우리 오빠는 아이돌,700843
+700844,['story' 'drama' 'pure'],9.98,걸어서 30분,700844
+700858,['story' 'drama' 'thrill'],9.98,닥터 하운드,700858
+701081,['story' 'action' 'drama' 'thrill'],9.98,스위트홈,701081
+701535,['story' 'sports'],9.19,격기3반,701535
+701699,['story' 'daily' 'drama' 'sensibility'],9.98,달콤한 인생_스페셜 에피소드,701699
+701700,['story' 'fantasy' 'action'],9.97,트롤트랩,701700
+702165,['story' 'daily' 'comic' 'pure'],9.20,간질간질,702165
+702170,['story' 'thrill'],9.92,심연의 하늘 시즌5,702170
+702422,['story' 'fantasy' 'drama' 'thrill'],9.91,니편내편,702422
+702423,['story' 'fantasy' 'thrill'],9.56,10월 28일,702423
+702463,['omnibus' 'daily' 'comic' 'fantasy' 'drama' 'pure' 'thrill' 'historical'],9.88,지캠단편 2017,702463
+702608,['story' 'daily' 'comic' 'drama'],9.92,랜덤채팅의 그녀!,702608
+702672,['episode' 'daily' 'comic'],9.98,노곤하개,702672
+703307,['story' 'fantasy'],9.96,신암행어사,703307
+703308,['story'],9.97,신석기녀,703308
+703628,['episode' 'daily' 'comic' 'fantasy' 'drama' 'pure'],9.85,성공한 덕후,703628
+703629,['episode' 'daily' 'comic'],9.93,열대어,703629
+703630,['story' 'comic' 'fantasy' 'action'],9.98,어글리후드,703630
+703631,['story' 'drama'],9.88,방백남녀,703631
+703633,['story' 'pure'],9.70,"안녕, 대학생",703633
+703634,['story' 'daily' 'drama' 'sensibility'],9.83,마주쳤다,703634
+703635,['story'],9.95,오직 나의 주인님,703635
+703833,['story' 'fantasy' 'pure' 'sensibility'],9.85,점핑오버,703833
+703835,['episode' 'sensibility'],9.97,1인용 기분,703835
+703836,['story' 'sports'],9.97,파도를 찾아라!,703836
+703837,['story' 'daily'],9.82,아기낳는만화,703837
+703838,['episode' 'daily' 'drama' 'sensibility'],9.98,홍차리브레,703838
+703839,['episode'],9.96,홍시는 날 좋아해!,703839
+703840,['story'],9.75,한국만화 1990,703840
+703841,['story'],9.95,꽃 피는 날,703841
+703843,['story' 'action' 'thrill'],9.98,비질란테,703843
+703845,['omnibus' 'fantasy' 'drama' 'sensibility'],9.97,죽음에 관하여 (재),703845
+703846,['story' 'drama' 'pure'],9.85,여신강림,703846
+703847,['story'],9.54,35cm,703847
+703848,['story'],9.86,파우스트 인 러브,703848
+703849,['story'],9.86,요리GO,703849
+703850,['episode' 'sensibility' 'thrill'],9.96,자판귀,703850
+703851,['story' 'thrill'],9.97,꼬리,703851
+703852,['story' 'comic' 'pure'],9.98,바른연애 길잡이,703852
+703853,['story' 'pure'],9.87,수학 잘하는 법,703853
+703854,['story' 'drama'],9.93,식스틴,703854
+703855,['story'],9.91,창궐,703855
+703856,['story' 'daily' 'drama' 'pure' 'sensibility'],9.32,8월의 눈보라,703856
+704595,['omnibus' 'daily' 'comic'],8.80,이말년씨리즈 2018,704595
+705328,['story' 'fantasy' 'drama'],9.98,환상적인 소년,705328
+706590,['story' 'drama'],9.91,피플,706590
+706770,['story' 'fantasy' 'action' 'thrill'],9.95,언데드,706770
+707671,['story'],9.89,소유,707671
+708378,['story' 'thrill'],9.87,타인은 지옥이다,708378
+708427,['episode' 'comic'],7.15,만 화 고,708427
+708452,['story' 'comic' 'fantasy'],9.98,냐한남자,708452
+708453,['story' 'fantasy' 'drama'],9.97,고교생을 환불해 주세요,708453
+70920,['story' 'fantasy'],8.66,로봇빠찌,70920
+709628,['story' 'daily' 'fantasy' 'drama' 'pure'],9.80,나의 짝사랑 고백법,709628
+709731,['story' 'daily' 'drama' 'pure'],9.98,유일무이 로맨스,709731
+709732,['story' 'fantasy' 'thrill'],9.95,하르모니아,709732
+709992,['story' 'comic' 'fantasy' 'drama' 'pure'],9.95,옆반의 인어,709992
+710081,['episode'],9.94,암흑도시,710081
+710390,['story' 'drama'],9.90,비둘기가 물고 온 남자,710390
+710639,['story' 'drama'],9.85,5kg을 위하여,710639
+710741,['story' 'daily' 'comic' 'drama'],9.96,부로콜리왕자,710741
+710747,['episode' 'daily' 'drama' 'thrill'],9.76,세상은 돈과 권력,710747
+710748,['story' 'comic' 'pure'],9.97,호러와 로맨스,710748
+710749,['story' 'fantasy'],9.93,고류 진,710749
+710750,['story' 'fantasy' 'drama' 'pure'],9.98,악마와 계약연애,710750
+710751,['episode' 'action'],9.82,약한영웅,710751
+710752,['story' 'action' 'drama' 'historical'],9.44,혈투,710752
+710754,['episode'],9.86,화장 지워주는 남자,710754
+710755,['story' 'action'],7.42,그랜드 배틀 토너먼트,710755
+710756,['episode'],9.95,일진에게 회초리,710756
+710757,['story' 'fantasy' 'pure'],9.93,완벽하지 않은 키스,710757
+710758,['story' 'comic' 'fantasy' 'action'],9.96,문래빗,710758
+710760,['story' 'drama' 'thrill'],9.96,이츠마인,710760
+710761,['story' 'fantasy'],9.91,하드캐리,710761
+710762,['story' 'comic' 'fantasy' 'sensibility'],9.94,반투명인간,710762
+710763,['story' 'fantasy' 'action' 'drama'],9.93,황금의 핸드메이커,710763
+710764,['story' 'comic' 'drama'],9.53,ㄹㅇ 관종,710764
+710765,['story'],9.93,펀브로커,710765
+710766,['episode'],9.56,불괴,710766
+710767,['episode'],9.96,엔드리스,710767
+710768,['story' 'fantasy' 'action'],9.95,아르마,710768
+710769,['episode' 'fantasy'],9.94,2인용 인간,710769
+711422,['episode' 'comic' 'historical'],9.97,삼국지톡,711422
+711899,['episode' 'daily' 'comic'],9.93,와장창창! 자취맨,711899
+712003,['story' 'drama' 'sensibility'],9.98,여중생A-우리들의 축제,712003
+712362,['story' 'drama' 'sensibility'],9.96,개를 낳았다,712362
+712694,['story' 'action' 'drama' 'thrill'],9.97,MZ-레이징 인페르노,712694
+712901,['story' 'drama' 'pure'],9.83,위장불륜 (僞裝不倫),712901
+713055,['story' 'fantasy'],9.03,호곡,713055
+713289,['story' 'fantasy' 'drama'],9.97,참새는 새!신부,713289
+713294,['story' 'drama' 'historical'],9.93,왕으로 살다,713294
+713581,['episode' 'daily' 'comic' 'fantasy' 'drama' 'pure'],9.94,내 여자친구는 상남자,713581
+713872,['story' 'drama' 'pure'],9.99,연의 편지,713872
+713915,['episode' 'drama' 'pure'],9.96,내 ID는 강남미인! - 둘만의 시간,713915
+713975,['story' 'fantasy' 'action' 'thrill'],9.96,데드라이프,713975
+714185,['story' 'fantasy' 'action'],9.93,링크보이,714185
+714293,['story' 'fantasy' 'action'],9.92,캉타우,714293
+714568,['story' 'thrill'],9.67,2018 재생금지,714568
+714834,['episode' 'daily' 'comic'],9.94,자취로운 생활,714834
+714839,['story' 'fantasy' 'drama' 'sensibility'],9.97,병의 맛,714839
+714886,['story' 'fantasy' 'action'],9.97,신을 죽이는 방법,714886
+715159,['story' 'comic' 'fantasy' 'action'],9.95,갓핑크,715159
+715772,['story' 'comic' 'fantasy' 'sensibility'],9.96,좀비딸,715772
+715935,['story' 'daily' 'fantasy' 'drama'],9.98,롤랑롤랑,715935
+716163,['story' 'daily' 'fantasy' 'drama'],9.98,늑대와 빨간모자,716163
+716164,['story' 'fantasy' 'action'],9.96,로베스의 완전감각,716164
+716776,['story' 'fantasy'],9.98,고인의 명복,716776
+716857,['episode' 'comic' 'pure'],9.97,오늘의 순정망화,716857
+717031,"['omnibus' 'daily' 'comic' 'fantasy' 'action' 'drama' 'pure' 'sensibility'
+ 'thrill' 'historical']",9.90,2018 루키 단편선-지옥캠프,717031
+717059,['omnibus' 'comic'],9.83,12차원 소년들,717059
+717481,['story' 'fantasy' 'action'],9.64,일렉시드,717481
+718016,['story' 'pure'],9.79,소녀 연대기,718016
+718018,['story' 'drama'],9.92,알고있지만,718018
+718019,['story' 'drama'],9.92,옆집친구,718019
+718020,['story' 'comic' 'drama'],9.98,귀곡의 문,718020
+718022,['story' 'fantasy' 'drama' 'pure' 'sensibility'],9.90,신시의 손님,718022
+72497,['story' 'historical'],9.94,비흔,72497
+72498,['omnibus' 'daily' 'comic'],9.83,나는 어디에 있는 거니,72498
+72499,['story' 'drama' 'historical'],9.92,흐드러지다,72499
+72938,['story' 'sensibility'],9.91,그린스마일,72938
+72939,['story' 'fantasy' 'action'],9.88,개판,72939
+73352,['omnibus' 'thrill'],9.77,연,73352
+76758,['story' 'drama'],9.89,"17살, 그 여름날의 기적",76758
+76759,['story' 'drama'],9.87,패밀리맨,76759
+78805,['episode' 'comic'],9.02,판타스틱 어른백서,78805
+81482,['episode' 'daily' 'comic'],9.92,놓지마 정신줄,81482
+89097,['omnibus' 'drama'],9.96,고고루키루,89097
+89098,['story' 'thrill'],9.91,몽타주,89098
+92106,['episode' 'daily' 'comic'],9.76,와라편의점 the animation,92106
+94760,['story' 'thrill'],9.90,악연,94760
+94761,['story' 'drama'],9.93,소설가J,94761
+96908,['story' 'historical'],9.91,삵의 발톱,96908
