@@ -41,11 +41,10 @@ for genre in genres:
 
 
 a = df.groupby(['title_id']).agg({'genre' : lambda x: [x.tolist()]})# title_id 기준으로 장르(genre) 합치기
-a['genre'] = a['genre'].apply(lambda x: np.reshape(x,-1)) # genre col: 2차원list 1차원list로 변경
+a['genre'] = a['genre'].apply(lambda x: np.reshape(x,-1))# genre col: 2차원list 1차원list로 변경
 
 b = df.groupby(['title_id']).max()[['main_rating','main_title']]
 
 final = a.join(b)
-final['title_id'] = final.index
 
 final.to_csv(path + "/data/meta/webtoon_genre.csv")
